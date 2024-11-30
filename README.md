@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/kH7ZQp7.jpg)  <!-- Reemplaza con tu URL directa -->
+![Banner](https://i.imgur.com/pwAPExB.png)  <!-- Este es el enlace directo a tu imagen -->
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning Full Stack Development
