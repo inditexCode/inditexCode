@@ -1,12 +1,12 @@
 ![Banner](https://i.imgur.com/pwAPExB.png)  <!-- Este es el enlace directo a tu imagen -->
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mi
 - 🌱 Estudiante de **Full Stack Development** 🚀
 - 💻 Apasionado por la programación y las **tecnologías web** 💻
 - 🔧 Aprendiendo y creando con **JavaScript**, **React**, **Node.js** y más ⚙️
 - 💼 Siempre abierto a colaborar en proyectos interesantes 🌟
 
-### 🌐 Connect with Me
+### 🌐Conéctate conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/yamil-sanchez-51229832b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
