@@ -1,7 +1,4 @@
-## Hi there 👋
-
-![Banner](https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner+Here)  
-<!-- Cambia la URL del banner por una imagen alojada en un lugar público -->
+![Banner](https://i.imgur.com/kH7ZQp7.jpg)  <!-- Reemplaza con tu URL directa -->
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning Full Stack Development
@@ -19,12 +16,3 @@
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
----
-
-### 🚀 My Skills
-- Java | JavaScript | React | Firebase | Node.js | Git | GitHub
-- 🌐 Full Stack Development
-
-### 📫 How to reach me
-Email: tuemail@correo.com
