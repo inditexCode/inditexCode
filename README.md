@@ -1,4 +1,4 @@
-![Banner]([https://i.imgur.com/pwAPExB.png](https://imgur.com/a/hYbDpm1))  <!-- Este es el enlace directo a tu imagen -->
+![Banner]([[https://i.imgur.com/pwAPExB.png](https://imgur.com/a/hYbDpm1)](https://i.imgur.com/mN3lxe1.png))  <!-- Este es el enlace directo a tu imagen -->
 
 ### 👨‍💻 Sobre Mi
 - 🌱 Estudiante de **Full Stack Development** 🚀
